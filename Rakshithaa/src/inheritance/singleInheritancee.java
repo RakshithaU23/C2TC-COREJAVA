@@ -1,13 +1,16 @@
 package inheritance;
 class Animal{
+	
 	void eat() {
+		
 	}
 }
 class Dog extends Animal{
 	void bark() {
+		
 	}
 }
-public class singleInheritance {
+public class singleInheritancee {
 public static void main(String args[]) {
 		
 		Animal a=new Animal();
